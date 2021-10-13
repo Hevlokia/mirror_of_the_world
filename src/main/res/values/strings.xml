@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">mirror of the world</string>
+    <string name="google_signin">Google signin</string>
+    <string name="send">Send</string>
+    <string name="message">Messages</string>
+    <string name="diary">Diary</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="crime_title_hint">"Start typing your tax. "</string>
+    <string name="crime_title_label">Enter the text</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Favourites</string>
+    <string name="chat">To Chat</string>
+    <string name="new_diary">New Diary</string>
+    <string name="crime_suspect_text">Select the recipient</string>
+    <string name="crime_report_text">to share</string>
+   <!-- <string name="crime_report_solved">The message was sent from the app: mirror of the world.</string>
+    <string name="crime_report_unsolved">Email of the author for communication: 344428@mail.ru</string>
+    -->
+    <string name="crime_report">%1$s The message was sent from the app: mirror of the world.
+      Email of the author for communication: 344428@mail.ru .  </string>
+    <string name="crime_report_solved"> </string>
+    <string name="crime_report_unsolved"> </string>
+    <string name="crime_report_no_suspect"> </string>
+    <string name="crime_report_suspect"> is %s.</string>
+    <string name="crime_report_subject"> </string>
+    <string name="send_report"> </string>
+
+
+</resources>

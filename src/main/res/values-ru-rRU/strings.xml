@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">mirror of the world</string>
+    <string name="google_signin">Google signin</string>
+    <string name="send">Отправить</string>
+    <string name="message">Сообщение</string>
+    <string name="diary">Дневник</string>
+    <string name="sign_out">назад</string>
+    <string name="crime_title_hint">Начните печатать ваш текст.</string>
+    <string name="crime_title_label">Введите текст</string>
+    <string name="crime_details_label">дата</string>
+    <string name="crime_solved_label">В избранное</string>
+    <string name="new_diary">Новая Запись</string>
+    <string name="crime_suspect_text">Выберите получателя</string>
+    <string name="crime_report_text">поделиться</string>
+    <string name="chat">Чат</string>
+
+    <string name="crime_report">%1$s Сообщение было отправлено из приложения: mirror of the world.
+      Email автора для связи: 344428@mail.ru  </string>
+    <string name="crime_report_solved"> </string>
+    <string name="crime_report_unsolved"> </string>
+    <string name="crime_report_no_suspect"> </string>
+    <string name="crime_report_suspect"> is %s.</string>
+    <string name="crime_report_subject"> </string>
+    <string name="send_report"> </string>
+</resources>
+
